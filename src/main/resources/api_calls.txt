@@ -1,0 +1,21 @@
+
+Student:
+---------------------
+
+http://localhost:8080//student
+
+http://localhost:8080//student/1482504571474
+
+http://localhost:8080//student/add
+{
+"id": 1482504571474,
+"name": "Jane",
+"subject": "history"
+}	
+
+
+
+User:
+---------------------
+http://localhost:8080/user
+
